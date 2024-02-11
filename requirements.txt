@@ -10,7 +10,7 @@ gin==0.1.6
 gin-config==0.5.0
 google-auth==2.6.0
 google-auth-oauthlib==0.4.6
-grpcio==1.53.0
+grpcio==1.53.2
 gym==0.19.0
 idna==3.3
 imageio==2.15.0
